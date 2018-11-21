@@ -1,1 +1,2 @@
-console.lot("CAPS LOCK IS ON!!!");
+console.log("CAPS LOCK IS ON!!!");
+console.log("purr");
