@@ -1,0 +1,1 @@
+console.lot("CAPS LOCK IS ON!!!");
